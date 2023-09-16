@@ -12,13 +12,20 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 I love working with a diverse set of technologies and tools. Here are some of my favorites.
 
-![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
-![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
-![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/e/e0/Tailwind_CSS_logo.svg)
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
-![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
-![WordPress](https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png)
+## Tech Stack
+
+I work with a diverse set of technologies and tools, including:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" alt="HTML">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" alt="CSS">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" alt="React">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tailwind_CSS_logo.svg" width="50" alt="Tailwind CSS">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50" alt="JavaScript">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" alt="Git">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" width="50" alt="WordPress">
+
+Feel free to explore more about how I use these technologies in my projects!
+
 
 Feel free to explore more about how I use these technologies in my projects!
 
