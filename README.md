@@ -10,12 +10,18 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 
 ## Tech Stack
 
-I love working with a diverse set of technologies and tools. Here are some of my favorites:
+I love working with a diverse set of technologies and tools. Here are some of my favorites.
 
-- **Programming Languages:** [List your preferred languages]
-- **Web Development:** [List front-end and back-end technologies]
-- **Database:** [List preferred databases]
-- **DevOps:** [Mention any relevant tools or practices]
+![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
+![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/e/e0/Tailwind_CSS_logo.svg)
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg)
+![Git](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+![WordPress](https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png)
+
+Feel free to explore more about how I use these technologies in my projects!
+
 
 ## GitHub Stats
 
